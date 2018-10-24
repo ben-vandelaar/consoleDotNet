@@ -1,0 +1,11 @@
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\bin\Debug\netcoreapp2.1\consoleDotNet.deps.json
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\bin\Debug\netcoreapp2.1\consoleDotNet.runtimeconfig.json
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\bin\Debug\netcoreapp2.1\consoleDotNet.runtimeconfig.dev.json
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\bin\Debug\netcoreapp2.1\consoleDotNet.dll
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\bin\Debug\netcoreapp2.1\consoleDotNet.pdb
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.dll
+C:\Users\Benjamin\Desktop\web_Projects\consoleDotNet\obj\Debug\netcoreapp2.1\consoleDotNet.pdb
